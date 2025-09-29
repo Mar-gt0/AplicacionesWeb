@@ -1,0 +1,44 @@
+.box{
+    margin: 30px;
+    padding: 20px;
+    border: 3px solid rgb(223, 141, 209);
+    background-color: rgb(207, 67, 137);
+}
+
+.box2{
+    background-color: rgb(54, 194, 136);
+    padding: 10px;
+    margin: 30px;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(133, 93, 78, 0.815);
+    position: static;
+}
+
+.box4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(78, 124, 145);
+    position: relative;
+    left: 30px;
+    bottom: 30px;
+}
+
+.container{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(236, 202, 10);
+    position: relative;
+}
+
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(97, 190, 85);
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
