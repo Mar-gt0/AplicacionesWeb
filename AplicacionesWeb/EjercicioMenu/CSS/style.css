@@ -1,0 +1,47 @@
+
+    body {
+      margin: 0;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+
+    .menu {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: #cc9696;
+      color: white;
+      padding: 10px 0;
+      text-align: center;
+    }
+
+    .menu a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+    }
+
+    .menu a:hover {
+      text-decoration: underline;
+    }
+
+    
+    .contenido {
+      margin-top: 60px; 
+      padding: 20px;
+    }
+
+    #inicio{
+        color: rgb(154, 152, 118);
+    }
+
+    #nosotros{
+      color: #d27f7f;
+    }
+
+    #contacto{
+      color: burlywood;
+    }
+
+
