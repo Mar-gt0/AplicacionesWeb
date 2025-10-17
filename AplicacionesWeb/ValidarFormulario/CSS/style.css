@@ -1,0 +1,51 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+    align-content: center;
+  }
+
+  .genero{
+    max-width: 280px;
+    gap: 10px;
+    align-content: center;
+    flex-direction: column;
+   padding-top: 10px;
+   font-family: serif;
+   color: rgb(85, 83, 87);
+
+  }
+
+  .boton{
+    color: rgb(240, 234, 237);
+    background-color: rgb(43, 82, 126);
+  }
+
+  .terminoss{
+    align-items: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: rgb(85, 83, 87);
+  }
+
+  .titulo{
+    color: rgb(82, 81, 71);
+    font-size: 35px;
+    font-family: serif;
+  }
+
+  .fondo{
+    background-color: rgb(101, 146, 168);
+  }
+
+  .text{
+    color: rgb(85, 83, 87);
+    font-size: 20px;
+    font-family: serif;
+  }
+
+  .alerta{
+    color: rgb(156, 16, 16);
+    font-size: 15px;
+  }
